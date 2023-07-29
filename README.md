@@ -20,7 +20,7 @@ El juego del Ahorcado cuenta con las siguientes características:
 
 ## Capturas de Pantalla
 
-![Captura 1](https://example.com/captura1.png)
+![Captura 1](src/proyectoAhorcado.png)
 
 ## Instrucciones de Uso
 
